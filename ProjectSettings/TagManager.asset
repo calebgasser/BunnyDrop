@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - bounds
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1793583991
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 642733119
+    locked: 0
+  - name: New Layer
+    uniqueID: 4017868285
+    locked: 0
+  - name: New Layer
+    uniqueID: 1756732447
+    locked: 0
+  - name: New Layer
+    uniqueID: 581906217
+    locked: 0
+  - name: New Layer
+    uniqueID: 2946802153
+    locked: 0
+  - name: New Layer
+    uniqueID: 2029070985
+    locked: 0
+  - name: New Layer
+    uniqueID: 644278477
+    locked: 0
+  - name: New Layer
+    uniqueID: 3100673677
+    locked: 0
+  - name: New Layer
+    uniqueID: 1361648589
+    locked: 0
+  - name: New Layer
+    uniqueID: 437638357
+    locked: 0
+  - name: Top
+    uniqueID: 1905198303
+    locked: 0

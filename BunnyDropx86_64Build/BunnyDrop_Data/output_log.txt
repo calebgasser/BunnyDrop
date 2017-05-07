@@ -1,0 +1,58 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780M (ID=0x119f)
+    Vendor:   NVIDIA
+    VRAM:     3994 MB
+    Driver:   21.21.13.7849
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Caleb\Documents\BunnyDrop\BunnyDropx86_64Build\BunnyDrop_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.934426 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.430079 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 327.
+Total: 0.244618 ms (FindLiveObjects: 0.028225 ms CreateObjectMapping: 0.012829 ms MarkObjects: 0.181325 ms  DeleteObjects: 0.011119 ms)
+
+OffScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LeftOffscreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.497362 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.272416 ms (FindLiveObjects: 0.023093 ms CreateObjectMapping: 0.009408 ms MarkObjects: 0.184746 ms  DeleteObjects: 0.054739 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.302352 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 0.242052 ms (FindLiveObjects: 0.024803 ms CreateObjectMapping: 0.009836 ms MarkObjects: 0.198431 ms  DeleteObjects: 0.008125 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 111fc -> priority: 1 
+  Thread -> id: 10de8 -> priority: 1 
